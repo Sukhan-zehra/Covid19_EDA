@@ -3,7 +3,9 @@ Covid-19 data exploration and visualization
 
 The COVID-19 Pandemic has impacted almost every aspect of life. It has left people grieving the loss of loved ones, overwhelemd our healtcare systems, and placed us in lockdowns that leave us feeling caged, physically and mentally. With what I hope is the last chapter of this pandemic, I hope everyone continues to stay safe and healthy.
 
-This is my first major project which was exciting and daunting at the same time. I didn't realize how much I would learn about SQL and Tableau when completing this. Goes to show that there's so much more to come in my data analytics journey! 
+This is my first major project which was exciting and daunting at the same time. I didn't anticipate how much I would learn about SQL and Tableau through completing this. Goes to show that there's so much more to come in my data analytics journey!
+
+My goal was to explore how the situation evolved from the begining of the pandemic to May 15, 2022. I did this by analyzing cases, deaths, and vaccination rates across the world. 
 
 The data is taken from Our World in Data, up until May 15, 2022. \
 Hannah Ritchie, Edouard Mathieu, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Esteban Ortiz-Ospina, Joe Hasell, Bobbie Macdonald, Diana Beltekian and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
